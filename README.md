@@ -8,5 +8,3 @@ This optimization problem can be defined as an objective with a constraint.
 - **Constraint:** Total freight weight (sum of weights of the selected items) must be less than or equal to the container's capacity
 
 We may also wish to add an additional constraint that specifies the maximum number of items that can be selected.
-
-To open this repository in the Leap IDE and run the Python program from your account, copy and paste this URL into your web browser: [https://ide.dwavesys.io#https://github.com/vgoliber/knapsack](https://ide.dwavesys.io#https://github.com/vgoliber/knapsack)
